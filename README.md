@@ -95,3 +95,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 Below are some ScreenShots of the Project
 
+![Alt text](https://github.com/Xp538/Notion-Clone-Advanced-Note-Taking-App/blob/master/assets/Screenshot%20(156).png)
+![Alt text](https://github.com/Xp538/Notion-Clone-Advanced-Note-Taking-App/blob/master/assets/Screenshot%20(157).png)
+![Alt text](https://github.com/Xp538/Notion-Clone-Advanced-Note-Taking-App/blob/master/assets/Screenshot%20(158).png)
+![Alt text](https://github.com/Xp538/Notion-Clone-Advanced-Note-Taking-App/blob/master/assets/Screenshot%20(159).png)
+![Alt text](https://github.com/Xp538/Notion-Clone-Advanced-Note-Taking-App/blob/master/assets/Screenshot%20(160).png)
+![Alt text](https://github.com/Xp538/Notion-Clone-Advanced-Note-Taking-App/blob/master/assets/Screenshot%20(161).png)
+![Alt text](https://github.com/Xp538/Notion-Clone-Advanced-Note-Taking-App/blob/master/assets/Screenshot%20(162).png)
+![Alt text](https://github.com/Xp538/Notion-Clone-Advanced-Note-Taking-App/blob/master/assets/Screenshot%20(163).png)
+![Alt text](https://github.com/Xp538/Notion-Clone-Advanced-Note-Taking-App/blob/master/assets/Screenshot%20(164).png)
+![Alt text](https://github.com/Xp538/Notion-Clone-Advanced-Note-Taking-App/blob/master/assets/Screenshot%20(165).png)
+![Alt text](https://github.com/Xp538/Notion-Clone-Advanced-Note-Taking-App/blob/master/assets/Screenshot%20(166).png)
